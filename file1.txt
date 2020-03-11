@@ -1,2 +1,4 @@
+
 FileconflictinDevBranch
-FileconflictcommitLocalChanges
+FileconflictcommitLocalChange
+FileconflictcommitLocalChanges2ndtime
